@@ -1,0 +1,13 @@
+# Local secrets — never commit
+config.json
+
+# Runtime / debug artifacts
+huawei-reboot-debug/
+*.log
+*.tmp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
